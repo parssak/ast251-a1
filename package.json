@@ -1,0 +1,17 @@
+{
+  "name": "csvs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "parssak",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.2.7",
+    "csv-parse": "^5.3.5",
+    "nodeplotlib": "^1.1.2"
+  }
+}
